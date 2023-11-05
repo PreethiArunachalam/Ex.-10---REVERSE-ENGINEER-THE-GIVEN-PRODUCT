@@ -30,13 +30,15 @@
   ###   ●	Close the doors of the 3d printer.
   ###   ●	Open the file from the USB storage and select the Print option.
 
-## Input:
+### Input:
+![image](https://github.com/PreethiArunachalam/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/120115840/6007811b-5268-4967-afec-19c9c67dbbbd)
 
 ### Output:
+![image](https://github.com/PreethiArunachalam/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/120115840/f4581824-88a9-48c0-b2ba-209c3bded032)
 
 
-### Name:
-### Register Number:
+### Name:PREETHI A A
+### Register Number:212222110035
 
-## RESULT:
-###   Thus the given product is reverse engineered and prototyped using 3D Printer.
+### RESULT:
+Thus the given product is reverse engineered and prototyped using 3D Printer.
